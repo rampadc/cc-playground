@@ -1,1 +1,1 @@
-This feature is rad!!!
+This feature is rad!!! Super rad with PRs and protected branches
